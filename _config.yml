@@ -1,11 +1,11 @@
 # _config.yml
 
 # required, replace with your own information -----
-title: Hello for Github Pages
-author: Sara Gong
+title: Kevin's Portfolio
+author: Kevin Le
 description: > 
-  A minimalist template for designing a personal GitHub Pages website - without typing a single line of code.
-baseurl: ""
+  This is my portfolio
+baseurl: "/portfolio"
 
 plugins:
   - jekyll-feed
